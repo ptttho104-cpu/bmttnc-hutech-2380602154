@@ -1,2 +1,2 @@
-git add .# bmttnc-hutech-2380602154
+# bmttnc-hutech-2380602154
 PhamThiThanhTho_2380602154
